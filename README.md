@@ -19,6 +19,4 @@
 
 ## 基本架构
 
-![alt text][flowchart]
-
-[flowchart]: docs/images/flowchart.jpg
+![mark](http://gongyz.oss-cn-shenzhen.aliyuncs.com/blog/20200117/090133420.jpg)

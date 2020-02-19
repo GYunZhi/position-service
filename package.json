@@ -1,5 +1,5 @@
 {
-  "name": "positionservice",
+  "name": "position-service",
   "version": "1.0.0",
   "description": "在这次演示中，我们来搭建一个支持MongoDB数据库CRUD操作的web服务，用来进行交易仓位的管理。",
   "main": "index.js",
